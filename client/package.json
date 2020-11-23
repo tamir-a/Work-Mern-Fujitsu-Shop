@@ -5,6 +5,7 @@
   "dependencies": {
     "antd": "^3.24.1",
     "axios": "^0.21.0",
+    "eslint-plugin-import": "^2.22.1",
     "formik": "^2.2.5",
     "moment": "^2.29.1",
     "react": "^17.0.1",
@@ -31,7 +32,10 @@
   },
   "eslintConfig": {
     "extends": "react-app"
+    
   },
+  
+ 
   "browserslist": {
     "production": [
       ">0.2%",
@@ -46,14 +50,5 @@
   },
   "devDependencies": {
     "http-proxy-middleware": "^1.0.6"
-  },
-  "import/no-anonymous-default-export": ["error", {
-    "allowArray": false,
-    "allowArrowFunction": false,
-    "allowAnonymousClass": false,
-    "allowAnonymousFunction": false,
-    "allowCallExpression": true,
-    "allowLiteral": false,
-    "allowObject": false
-  }]
+  }
 }
