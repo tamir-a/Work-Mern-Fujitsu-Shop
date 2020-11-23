@@ -1,4 +1,4 @@
-Fujitsu online shop хийгээд орхисон.
+Fujitsu online shop хийгээд орхисон. Хийсэн технологи MERN stack
 Sale н хувь хямдарсан үнэ хийх,
 Админ хэсэг хийх, Оруулсан барааны үнэ солих, устгах
 About Contact хэсэг хийх
